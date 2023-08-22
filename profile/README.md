@@ -1,4 +1,4 @@
-![Embedded Rocks Logo](logo.png)
+![Embedded Rocks Logo](https://github.com/Embedded-Rocks/.github/blob/main/profile/logo.png)
 
 ## Welcome!
 
