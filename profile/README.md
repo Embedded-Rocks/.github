@@ -1,8 +1,12 @@
-![Embedded Rocks Logo](https://github.com/Embedded-Rocks/.github/blob/main/profile/logo.png)
+![Embedded Rocks Logo](https://github.com/Embedded-Rocks/.github/blob/main/profile/logo-gradient.png)
 
 ## Welcome!
 
-We specialize in crafting personalized, open-source electronics projects that cater to your unique needs and aspirations. Our online store is a haven for tech enthusiasts seeking bespoke solutions, where we combine the power of customization with the freedom of open-source technology. Dive into a world of innovation as we transform your ideas into tangible, functional devices that empower you to explore the limitless possibilities of electronics. With "Embedded Rocks," your imagination is the only limit, and we're here to turn your visions into reality, one circuit at a time.
+Most of the electronic projects I work on are always thinking about turning them into a product one day. **Embedded Rocks** is an umbrella of these projects with links to stores if you want to buy them as well as links to the repositories if you want to build one at home, since all projects are open-source.
+
+Take a look at the website [embedded.rocks](https://embedded.rocks)
+
+Jonathas.
 
 <!--
 
