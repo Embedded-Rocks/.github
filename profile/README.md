@@ -4,7 +4,7 @@
 
 Most of the electronic projects I work on are always thinking about turning them into a product one day. **Embedded Rocks** is an umbrella of these projects with links to stores if you want to buy them as well as links to the repositories if you want to build one at home, since all projects are open-source.
 
-Take a look at the website [embedded.rocks](https://embedded.rocks)
+Take a look at the website [embedded.rocks](https://embedded.rocks) or send an email to [contact@embedded.rocks](mailto:contact@embedded.rocks)
 
 Jonathas.
 
